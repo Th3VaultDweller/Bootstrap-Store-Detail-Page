@@ -1,3 +1,7 @@
 body {
     font-family: "Larken", sans-serif;
 }
+
+.product_info {
+    position: relative;
+}
